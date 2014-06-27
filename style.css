@@ -1,0 +1,16 @@
+td {
+	width:30px;
+	height:30px;
+}
+
+td.black {
+	background-color: #000;
+}
+
+td.grey {
+	background-color: #E0E0E0;
+}
+
+td.green {
+	background-color: #009933;
+}
